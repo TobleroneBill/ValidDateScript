@@ -1,2 +1,2 @@
 # ValidDateScript
-Validates dates saved in clipboard. Can be easily changed to only output valid dates
+Validates dates saved in clipboard (copied Text). Can be easily changed to only output valid dates
